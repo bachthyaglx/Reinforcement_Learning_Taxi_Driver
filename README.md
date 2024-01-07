@@ -32,3 +32,4 @@ The Reinforcement Learning (RL) approach using Q-learning aims to train an agent
 <b>Gif Animation of Trained Policy:</b>
    + Outcome: The script generates a gif animation of the agent's interactions after training.
    + Observation: The gif visually summarizes the trained agent's behavior and performance in the environment.
+
