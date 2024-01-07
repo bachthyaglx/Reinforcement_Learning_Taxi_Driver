@@ -30,33 +30,27 @@ The Reinforcement Learning (RL) approach using Q-learning algorithms to train an
 
 # Python environment instructions
 
-# Installation:
-# install Python 3.10+ on your system, restart system
-# Example here: Windows 11, Linux, MacOS
-
-# -------------------------------
-# Installation:
+##Installation:
 c:
 cd C:\(...)\Lec1_ Reinforcement Learning
 
-# Windows:
+##Windows:
 python -m venv .venv
 .venv\Scripts\activate.bat
 
-# Linux, MacOS:
+##Linux, MacOS:
 .venv/Scripts/activate
 
 pip install -r requirements.txt
 
-# -------------------------------
-# Launch:
+##Launch:
 c:
 cd (...)\Lec1_ Reinforcement Learning
 
-# Windows:
+##Windows:
 .venv\Scripts\activate.bat
-# Linux, MacOS:
+Linux, MacOS:
 .venv/Scripts/activate
 
-# spyder
+##spyder
 jupyter notebook
