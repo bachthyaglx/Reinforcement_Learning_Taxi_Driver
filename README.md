@@ -30,11 +30,11 @@ The Reinforcement Learning (RL) approach using Q-learning algorithms to train an
 
 # Python environment instructions
 
-##Installation:
+## Installation:
 c:
 cd C:\(...)\Lec1_ Reinforcement Learning
 
-##Windows:
+Windows:
 python -m venv .venv
 .venv\Scripts\activate.bat
 
