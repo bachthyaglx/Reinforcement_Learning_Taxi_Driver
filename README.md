@@ -33,3 +33,4 @@ The Reinforcement Learning (RL) approach using Q-learning aims to train an agent
    + Outcome: The script generates a gif animation of the agent's interactions after training.
    + Observation: The gif visually summarizes the trained agent's behavior and performance in the environment.
 
+![animation](https://github.com/bachthyaglx/Reinforcement_Learning_Taxi_Driver/assets/62774638/ba8bd0fe-0bb7-46b0-bf6c-3e6a358b6001)
