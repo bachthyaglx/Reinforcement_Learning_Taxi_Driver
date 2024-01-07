@@ -1,5 +1,5 @@
 # Reinforcement_Learning_Taxi_Driver
-The Reinforcement Learning (RL) approach using Q-learning aims to train an agent that can autonomously navigate the Taxi-v3 environment, demonstrating improved decision-making and task efficiency over time. The effectiveness of the learned policy is assessed through training and testing outcomes. Below are short summarizes from the outcomes of using RL in the Taxi driver application:
+The Reinforcement Learning (RL) approach using Q-learning algorithms to train an agent that can autonomously navigate the Taxi environment, demonstrating improved decision-making and task efficiency over time. The effectiveness of the learned policy is assessed through training and testing outcomes. Below are short summarizes from the outcomes of using RL in the Taxi driver application:
 
 <b>Random Agent Simulation:</b>
    + Outcome: The agent takes random actions, resulting in unpredictable and often inefficient behavior.
