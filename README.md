@@ -25,6 +25,7 @@ The Reinforcement Learning (RL) approach using Q-learning algorithms to train an
    + Observation: The gif visually summarizes the trained agent's behavior and performance in the environment.
 
 ![image](https://github.com/bachthyaglx/Reinforcement_Learning_Taxi_Driver/assets/62774638/581de439-37b1-4479-b3f9-fd917d670174)
+
 ![image](https://github.com/bachthyaglx/Reinforcement_Learning_Taxi_Driver/assets/62774638/2ebea46d-b8ef-489b-8d52-8179f7b44c56)
 
 
